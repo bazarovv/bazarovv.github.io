@@ -1,0 +1,1004 @@
+Uri: http://www.felipecastro.co/index.html
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\index.html
+Content Type: text/html
+
+Uri: http://www.felipecastro.co/css/foundation.css
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\css\foundation.css
+Content Type: text/css
+
+Uri: http://www.felipecastro.co/css/base.css
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\css\base.css
+Content Type: text/css
+
+Uri: http://www.felipecastro.co/css/app.css
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\css\app.css
+Content Type: text/css
+
+Uri: http://www.felipecastro.co/css/jquery.fullPage.css
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\css\jquery.fullPage.css
+Content Type: text/css
+
+Uri: http://www.felipecastro.co/css/animate.css
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\css\animate.css
+Content Type: text/css
+
+Uri: http://www.felipecastro.co/apple-icon-57x57.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\apple-icon-57x57.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/apple-icon-60x60.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\apple-icon-60x60.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/apple-icon-72x72.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\apple-icon-72x72.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/apple-icon-76x76.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\apple-icon-76x76.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/apple-icon-114x114.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\apple-icon-114x114.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/apple-icon-120x120.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\apple-icon-120x120.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/apple-icon-144x144.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\apple-icon-144x144.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/apple-icon-152x152.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\apple-icon-152x152.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/apple-icon-180x180.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\apple-icon-180x180.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/android-icon-192x192.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\android-icon-192x192.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/favicon-32x32.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\favicon-32x32.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/favicon-96x96.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\favicon-96x96.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/favicon-16x16.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\favicon-16x16.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/manifest.json
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\manifest.json
+Content Type: application/json
+
+Uri: http://www.felipecastro.co/awwwards.css
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\awwwards.css
+Content Type: text/css
+
+Uri: http://www.felipecastro.co/about.html
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\about.html
+Content Type: text/html
+
+Uri: http://www.felipecastro.co/enter-co.html
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\enter-co.html
+Content Type: text/html
+
+Uri: http://www.felipecastro.co/unit-for-the-victims.html
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\unit-for-the-victims.html
+Content Type: text/html
+
+Uri: http://www.felipecastro.co/la-hipotecaria.html
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\la-hipotecaria.html
+Content Type: text/html
+
+Uri: http://www.felipecastro.co/somos-dane.html
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\somos-dane.html
+Content Type: text/html
+
+Uri: http://www.felipecastro.co/fogafin.html
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\fogafin.html
+Content Type: text/html
+
+Uri: http://www.felipecastro.co/viajes-falabella.html
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\viajes-falabella.html
+Content Type: text/html
+
+Uri: http://www.felipecastro.co/img/pat-dark.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\pat-dark.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/js/vendor/jquery.js
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\js\vendor\jquery.js
+Content Type: application/javascript
+
+Uri: http://www.felipecastro.co/js/vendor/what-input.js
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\js\vendor\what-input.js
+Content Type: application/javascript
+
+Uri: http://www.felipecastro.co/js/jquery.fullPage.js
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\js\jquery.fullPage.js
+Content Type: application/javascript
+
+Uri: http://www.felipecastro.co/js/vendor/jquery.easings.min.js
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\js\vendor\jquery.easings.min.js
+Content Type: application/javascript
+
+Uri: http://www.felipecastro.co/js/vendor/jquery.lettering.js
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\js\vendor\jquery.lettering.js
+Content Type: application/javascript
+
+Uri: http://www.felipecastro.co/js/jquery.textillate.js
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\js\jquery.textillate.js
+Content Type: application/javascript
+
+Uri: http://www.felipecastro.co/js/modernizr-custom.js
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\js\modernizr-custom.js
+Content Type: application/javascript
+
+Uri: http://www.felipecastro.co/js/only-home.js
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\js\only-home.js
+Content Type: application/javascript
+
+Uri: http://www.felipecastro.co/fonts/AvenirNextLTPro-Regular.eot?
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\fonts\AvenirNextLTPro-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.felipecastro.co/fonts/AvenirNextLTPro-Regular.otf
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\fonts\AvenirNextLTPro-Regular.otf
+Content Type: font/otf
+
+Uri: http://www.felipecastro.co/fonts/AvenirNextLTPro-Regular.woff
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\fonts\AvenirNextLTPro-Regular.woff
+Content Type: font/woff
+
+Uri: http://www.felipecastro.co/fonts/AvenirNextLTPro-Regular.ttf
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\fonts\AvenirNextLTPro-Regular.ttf
+Content Type: font/ttf
+
+Uri: http://www.felipecastro.co/fonts/AvenirNextLTPro-Regular.svg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\fonts\AvenirNextLTPro-Regular.svg
+Content Type: image/svg+xml
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/browser-1.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\browser-1.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/browser-2.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\browser-2.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/enter-test-1.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\enter-test-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/unit-test-1.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\unit-test-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/hipotecaria-test-2.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\hipotecaria-test-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/somos-dane-l.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\somos-dane-l.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/fogafin-test.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\fogafin-test.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/viajes-test.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\viajes-test.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/alqueria-l-2.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\alqueria-l-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/pat.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\pat.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/enter-m.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\enter-m.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/unidad-m.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\unidad-m.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/hipotecaria-m.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\hipotecaria-m.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/somos-dane-m.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\somos-dane-m.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/fogafin-m.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\fogafin-m.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/viajes-m.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\viajes-m.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/alqueria-m.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\alqueria-m.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/ribbons/awwwards_honorable_black_left.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\ribbons\awwwards_honorable_black_left.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/ribbons/awwwards_honorable_black_right.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\ribbons\awwwards_honorable_black_right.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/ribbons/awwwards_honorable_silver_left.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\ribbons\awwwards_honorable_silver_left.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/ribbons/awwwards_honorable_silver_right.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\ribbons\awwwards_honorable_silver_right.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/ribbons/awwwards_honorable_white_left.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\ribbons\awwwards_honorable_white_left.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/ribbons/awwwards_honorable_white_right.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\ribbons\awwwards_honorable_white_right.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/ribbons/awwwards_honorable_green_left.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\ribbons\awwwards_honorable_green_left.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/ribbons/awwwards_honorable_green_right.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\ribbons\awwwards_honorable_green_right.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/ribbons/awwwards_honorable_black_left@2x.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\ribbons\awwwards_honorable_black_left@2x.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/ribbons/awwwards_honorable_black_right@2x.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\ribbons\awwwards_honorable_black_right@2x.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/ribbons/awwwards_honorable_silver_left@2x.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\ribbons\awwwards_honorable_silver_left@2x.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/ribbons/awwwards_honorable_silver_right@2x.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\ribbons\awwwards_honorable_silver_right@2x.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/ribbons/awwwards_honorable_white_left@2x.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\ribbons\awwwards_honorable_white_left@2x.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/ribbons/awwwards_honorable_white_right@2x.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\ribbons\awwwards_honorable_white_right@2x.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/ribbons/awwwards_honorable_green_left@2x.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\ribbons\awwwards_honorable_green_left@2x.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/ribbons/awwwards_honorable_green_right@2x.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\ribbons\awwwards_honorable_green_right@2x.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/css/unit.css
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\css\unit.css
+Content Type: text/css
+
+Uri: http://www.felipecastro.co/img/linkedin-icon.svg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\linkedin-icon.svg
+Content Type: image/svg+xml
+
+Uri: http://www.felipecastro.co/js/app.js
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\js\app.js
+Content Type: application/javascript
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/prev-enter.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\prev-enter.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/wf-enter-1.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\wf-enter-1.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/wf-enter-2.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\wf-enter-2.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/wf-enter-3.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\wf-enter-3.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/main-l.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\main-l.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/responsive-laptop.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\responsive-laptop.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/responsive-tablet.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\responsive-tablet.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/ui_03.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\ui_03.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/ui_06.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\ui_06.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/ui_01.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\ui_01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/ui_05.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\ui_05.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/ui_07.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\ui_07.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/ui_02.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\ui_02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/ui_09.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\ui_09.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/ui_04.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\ui_04.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/responsive-imac.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\responsive-imac.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/enter-2.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\enter-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/enter-1.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\enter-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/enter-4.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\enter-4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/enter-3.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\enter-3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/mobile-enter-1.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\mobile-enter-1.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/mobile-enter-2.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\mobile-enter-2.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/mobile-enter-3.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\mobile-enter-3.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/results/results-1.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\results\results-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/results/results-2.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\results\results-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/results/results-5.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\results\results-5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/results/results-6.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\results\results-6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/results/results-9.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\results\results-9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/results/results-10.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\results\results-10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/results/results-4.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\results\results-4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/results/results-8.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\results\results-8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/heart-enter-co.svg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\heart-enter-co.svg
+Content Type: image/svg+xml
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/wf-unit-1.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\wf-unit-1.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/wf-unit-2.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\wf-unit-2.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/wf-unit-3.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\wf-unit-3.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/main-l.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\main-l.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/smartphone-l.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\smartphone-l.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/tablet-l.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\tablet-l.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/ui_03.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\ui_03.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/ui_06.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\ui_06.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/ui_08.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\ui_08.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/ui_01.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\ui_01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/ui_05.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\ui_05.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/ui_07.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\ui_07.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/ui_02.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\ui_02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/ui_09.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\ui_09.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/ui_04.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\ui_04.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/editorial-1.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\editorial-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/editorial-2.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\editorial-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/editorial-3.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\editorial-3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/editorial-4.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\editorial-4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/editorial-5.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\editorial-5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/responsive-layout-l.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\responsive-layout-l.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/panel-1.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\panel-1.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/panel-2.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\panel-2.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/panel-3.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\panel-3.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/gallery.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\gallery.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/gallery-s.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\gallery-s.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/browser-down-1.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\browser-down-1.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/browser-down-2.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\browser-down-2.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/browser-down-3.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\browser-down-3.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/heart-unit-victims.svg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\heart-unit-victims.svg
+Content Type: image/svg+xml
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/sitemap.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\sitemap.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/wf-hipotecaria.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\wf-hipotecaria.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/main-l-2.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\main-l-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/mock-test.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\mock-test.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/ui_07.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\ui_07.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/ui_03.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\ui_03.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/ui_09.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\ui_09.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/ui_01.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\ui_01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/ui_05.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\ui_05.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/ui_04.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\ui_04.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/ui_02.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\ui_02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/ui_08.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\ui_08.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/ui_06.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\ui_06.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/lh-1.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\lh-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/lh-2.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\lh-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/lh-3.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\lh-3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/lh-4.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\lh-4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/icon_01.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\icon_01.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/icon_02.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\icon_02.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/icon_03.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\icon_03.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/icon_04.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\icon_04.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/icon_05.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\icon_05.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/icon_06.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\icon_06.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/heart-hipotecaria.svg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\heart-hipotecaria.svg
+Content Type: image/svg+xml
+
+Uri: http://www.felipecastro.co/alqueria.html
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\alqueria.html
+Content Type: text/html
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/users-somos-dane.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\users-somos-dane.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/interaction-flow-somos-dane.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\interaction-flow-somos-dane.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/wireframes-somos-dane-01.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\wireframes-somos-dane-01.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/wireframes-somos-dane-02.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\wireframes-somos-dane-02.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/wireframes-somos-dane-03.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\wireframes-somos-dane-03.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/wireframes-somos-dane-04.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\wireframes-somos-dane-04.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/wireframes-somos-dane-05.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\wireframes-somos-dane-05.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/home-somos-dane.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\home-somos-dane.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/mockup-somos-dane-1.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\mockup-somos-dane-1.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/ui-sd-2.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\ui-sd-2.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/ui-sd-1.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\ui-sd-1.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/ui-sd-3.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\ui-sd-3.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/ui-sd-4.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\ui-sd-4.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/ui-sd-5.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\ui-sd-5.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/banner-gc-2.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\banner-gc-2.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/banner-gc-3.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\banner-gc-3.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/banner-gc-4.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\banner-gc-4.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/ui-sd-6.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\ui-sd-6.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/ui-sd-7.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\ui-sd-7.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/character-big.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\character-big.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/heart-somos-dane.svg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\heart-somos-dane.svg
+Content Type: image/svg+xml
+
+Uri: http://www.felipecastro.co/img/projects/fogafin/prev-site.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\fogafin\prev-site.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/fogafin/guidelines.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\fogafin\guidelines.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/fogafin/home-fogafin.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\fogafin\home-fogafin.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/fogafin/tablet-fogafin.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\fogafin\tablet-fogafin.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/fogafin/ui-fogafin-1.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\fogafin\ui-fogafin-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/fogafin/ui-fogafin-3.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\fogafin\ui-fogafin-3.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/fogafin/ui-fogafin-9.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\fogafin\ui-fogafin-9.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/fogafin/ui-fogafin-7.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\fogafin\ui-fogafin-7.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/fogafin/ui-fogafin-4.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\fogafin\ui-fogafin-4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/fogafin/ui-fogafin-8.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\fogafin\ui-fogafin-8.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/fogafin/ui-fogafin-6.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\fogafin\ui-fogafin-6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/fogafin/ui-fogafin-2.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\fogafin\ui-fogafin-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/fogafin/ui-fogafin-5.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\fogafin\ui-fogafin-5.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/fogafin/responsive-mockup-fogafin-3.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\fogafin\responsive-mockup-fogafin-3.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/heart-fogafin.svg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\heart-fogafin.svg
+Content Type: image/svg+xml
+
+Uri: http://www.felipecastro.co/img/projects/viajes-falabella/user-personas.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\viajes-falabella\user-personas.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/viajes-falabella/moodboards.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\viajes-falabella\moodboards.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/viajes-falabella/main-l.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\viajes-falabella\main-l.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/viajes-falabella/mock-viajes.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\viajes-falabella\mock-viajes.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/viajes-falabella/ui_07.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\viajes-falabella\ui_07.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/viajes-falabella/ui_03.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\viajes-falabella\ui_03.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/viajes-falabella/ui_10.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\viajes-falabella\ui_10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/viajes-falabella/ui_11.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\viajes-falabella\ui_11.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/viajes-falabella/ui_01.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\viajes-falabella\ui_01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/viajes-falabella/ui_05.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\viajes-falabella\ui_05.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/viajes-falabella/ui_04.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\viajes-falabella\ui_04.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/viajes-falabella/ui_02.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\viajes-falabella\ui_02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/viajes-falabella/ui_06.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\viajes-falabella\ui_06.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/viajes-falabella/ui_09.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\viajes-falabella\ui_09.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/viajes-falabella/show-mock-viajes.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\viajes-falabella\show-mock-viajes.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/viajes-falabella/responsive-3.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\viajes-falabella\responsive-3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/viajes-falabella/responsive-1.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\viajes-falabella\responsive-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/viajes-falabella/responsive-2.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\viajes-falabella\responsive-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/heart-viajes-falabella.svg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\heart-viajes-falabella.svg
+Content Type: image/svg+xml
+
+Uri: http://www.felipecastro.co/fonts/projects/unit-victims/FuturaStd-Book.eot?
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\fonts\projects\unit-victims\FuturaStd-Book.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.felipecastro.co/fonts/projects/unit-victims/FuturaStd-Book.woff
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\fonts\projects\unit-victims\FuturaStd-Book.woff
+Content Type: font/woff
+
+Uri: http://www.felipecastro.co/fonts/projects/unit-victims/FuturaStd-Book.ttf
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\fonts\projects\unit-victims\FuturaStd-Book.ttf
+Content Type: font/ttf
+
+Uri: http://www.felipecastro.co/fonts/projects/unit-victims/FuturaStd-Book.svg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\fonts\projects\unit-victims\FuturaStd-Book.svg
+Content Type: image/svg+xml
+
+Uri: http://www.felipecastro.co/fonts/projects/unit-victims/FuturaStd-Bold.eot?
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\fonts\projects\unit-victims\FuturaStd-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.felipecastro.co/fonts/projects/unit-victims/FuturaStd-Bold.otf
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\fonts\projects\unit-victims\FuturaStd-Bold.otf
+Content Type: font/otf
+
+Uri: http://www.felipecastro.co/fonts/projects/unit-victims/FuturaStd-Bold.woff
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\fonts\projects\unit-victims\FuturaStd-Bold.woff
+Content Type: font/woff
+
+Uri: http://www.felipecastro.co/fonts/projects/unit-victims/FuturaStd-Bold.ttf
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\fonts\projects\unit-victims\FuturaStd-Bold.ttf
+Content Type: font/ttf
+
+Uri: http://www.felipecastro.co/fonts/projects/unit-victims/FuturaStd-Bold.svg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\fonts\projects\unit-victims\FuturaStd-Bold.svg
+Content Type: image/svg+xml
+
+Uri: http://www.felipecastro.co/fonts/projects/la-hipotecaria/Aleo-Regular-webfont.eot?
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\fonts\projects\la-hipotecaria\Aleo-Regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.felipecastro.co/fonts/projects/la-hipotecaria/Aleo-Regular-webfont.woff
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\fonts\projects\la-hipotecaria\Aleo-Regular-webfont.woff
+Content Type: font/woff
+
+Uri: http://www.felipecastro.co/fonts/projects/la-hipotecaria/Aleo-Regular-webfont.ttf
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\fonts\projects\la-hipotecaria\Aleo-Regular-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/unit-bg.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\unit-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/enter-bg-test.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\enter-bg-test.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/hipotecaria-bg.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\hipotecaria-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/viajes-falabella/viajes-falabella-bg.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\viajes-falabella\viajes-falabella-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/somos-dane-bg.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\somos-dane-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/fogafin/fogafin-bg.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\fogafin\fogafin-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/alqueria/alqueria-bg.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\alqueria\alqueria-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/furley_bg.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\furley_bg.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/bg-responsive.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\bg-responsive.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/enter-co/go-next.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\enter-co\go-next.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/unit-victims/go-next.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\unit-victims\go-next.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/somos-dane/go-next.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\somos-dane\go-next.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/la-hipotecaria/go-next.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\la-hipotecaria\go-next.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/fogafin/go-next.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\fogafin\go-next.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/viajes-falabella/go-next.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\viajes-falabella\go-next.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/projects/fogafin/responsive-bg.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\fogafin\responsive-bg.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/profile-picture-3.png
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\profile-picture-3.png
+Content Type: image/png
+
+Uri: http://www.felipecastro.co/img/projects/alqueria/home-alqueria.jpg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\projects\alqueria\home-alqueria.jpg
+Content Type: image/jpeg
+
+Uri: http://www.felipecastro.co/img/heart-alqueria.svg
+File Name: C:\Users\Zver\Desktop\Новая папка\www.felipecastro.co\img\heart-alqueria.svg
+Content Type: image/svg+xml
+
